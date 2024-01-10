@@ -4,7 +4,7 @@ Name: Sarthak Chaudhary
 
 University: University of Petroleum and Energy Studies
 
-Batch: CSE with Ai-ML(Major) & Iot(Minor)(2020-2024)
+Batch: CSE with AI-ML(Major) & IOT(Minor)(2020-2024)
 
 Hometown: Roorkee, Uttarakhand
 
