@@ -1,7 +1,7 @@
 # Introduction
 ![Ankush](https://github.com/Ankush-Katiyar/devops-2024/assets/89477915/789cb5b0-6736-4f2f-8f14-fcd90b1e6a8c)
 
-•	Name: Ankush Katiyar
+•	Name: Ankush Katiyar <br>
 •	University: University of Petroleum and Energy Studies
 •	Batch: CSE with Cloud Computing Virtualization Technology (2020-2024)
 •	Hometown: Kanpur, Uttar Pradesh
