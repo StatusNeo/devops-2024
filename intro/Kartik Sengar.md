@@ -1,4 +1,6 @@
 
+![IMG_20240110_112158](https://github.com/kartiks123/devops-2024/assets/78920624/a1307237-8d53-4ff7-91e8-87b70452d533)
+
 
 
 Name: Kartik Sengar
