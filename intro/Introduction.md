@@ -1,0 +1,17 @@
+● Name: Nandini Nanda
+
+● University: University of Petroleum and Energy Studies
+
+● Batch: CSE with Cloud Computing and Virtualization Technology(2020-2024)
+
+● Hometown: Yamuna Nagar, Haryana
+
+● Background: Cloud Computing, Docker and CybeSec
+
+● Goals: Striving for excellence in technology, blending expertise in Cloud Computing and Web Development to contribute meaningfully.
+
+● Motivation: Live life as there is no tomorrow. 
+
+● GitHub: https://github.com/NandiniNanda
+
+● LinkedIn: https://www.linkedin.com/in/nandini-nanda
