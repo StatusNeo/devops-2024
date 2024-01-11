@@ -1,3 +1,4 @@
+![image](https://github.com/kartikmadan26/devops-2024/assets/72307166/dbf14c3d-c77c-43b3-bc41-316061ea2dcd)
 
 Name: Kartik Madan
 
