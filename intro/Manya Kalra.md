@@ -1,20 +1,23 @@
-Name: Manya Kalra
+# Introduction
 
-University: University of Petroleum and Energy Studies
+![processed-E54D9072-370E-43EB-83C7-D6428FF70A37](https://github.com/manya07/devops-2024/assets/79071040/b297b37a-f0d9-4570-9d4c-468e1853024d)
 
-Batch: CSE with Cloud Computing and Virtual Technology and DevOps (2020-2024)
+- Name: Manya Kalra
 
-Hometown: Chandigarh
+- University: University of Petroleum and Energy Studies
 
-Background: AWS, Devops
+- Batch: CSE with Cloud Computing and Virtualization Technology and DevOps (2020-2024)
 
-Goals: Being able to utilize my skills at the most, learn new things by getting out of my comfort zone, expand my professional network and become more adventerous.
+- Hometown: Chandigarh
 
-Motivation: The continous evolution of technology. 
+- Background: AWS, Devops
 
-GitHub: https://github.com/manya07
+- Goals: Being able to utilize my skills at the most, learn new things by getting out of my comfort zone, expand my professional network and become more adventerous.
 
-LinkedIn: https://www.linkedin.com/in/manya-kalra/
+- Motivation: The continous evolution of technology. 
 
-![processed-E54D9072-370E-43EB-83C7-D6428FF70A37](https://github.com/StatusNeo/devops-2024/assets/79071040/ced92031-0e0f-408d-ace3-961e08ec4ead)
+- GitHub: https://github.com/manya07
+
+- LinkedIn: https://www.linkedin.com/in/manya-kalra/
+
 
