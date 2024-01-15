@@ -1,19 +1,21 @@
-![IMG_20231204_003842_465](https://github.com/Ayushsaini20/devops-2024/assets/73630171/a0075f03-fe52-4816-acd9-85a482079f4e)
+# Introduction
 
-Name: Ayush Saini
+<img src="https://github.com/Ayushsaini20/devops-2024/assets/73630171/a0075f03-fe52-4816-acd9-85a482079f4e" width="300" height="400" />
 
-University: University of Petroleum and Energy Studies
+* Name: Ayush Saini
 
-Batch: CSE with AIML (2020-2024)
+* University: University of Petroleum and Energy Studies
 
-Hometown: Dehradun, Uttarakhand
+* Batch: CSE with AIML (2020-2024)
 
-Background: Artificial Intelligence, Machine Learning and Web Devlopment 
+* Hometown: Dehradun, Uttarakhand
 
-Goals: Becoming a highly skilled and valued professional in the feild of technology engineering.
+* Background: Artificial Intelligence, Machine Learning and Web Devlopment 
 
-Motivation: Goals and dreams of me any my parents to achieve.
+* Goals: Becoming a highly skilled and valued professional in the feild of technology engineering.
 
-GitHub: https://github.com/Ayushsaini20
+* Motivation: Goals and dreams of me any my parents to achieve.
 
-LinkedIn: https://www.linkedin.com/in/ayush-saini-b23314237/
+* GitHub: https://github.com/Ayushsaini20
+
+* LinkedIn: https://www.linkedin.com/in/ayush-saini-b23314237/
